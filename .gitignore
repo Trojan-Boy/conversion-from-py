@@ -1,0 +1,5 @@
+session_final_auto.session
+state.json
+*.tmp
+__pycache__/
+*.pyc
