@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: Configuration
-set "REPO_URL=https://raw.githubusercontent.com/YOUR_USERNAME/conversion-from-py/main"
+set "REPO_URL=https://raw.githubusercontent.com/Trojan-Boy/conversion-from-py/main"
 set "SCRIPT_NAME=telegram-1.py"
 set "REQUIREMENTS=requirements.txt"
 set "DOWNLOAD_DIR=%USERPROFILE%\Downloads\telegram-bot"
